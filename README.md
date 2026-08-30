@@ -9,7 +9,7 @@ My professional experience includes working with **ADNOC Onshore** and **Dubai F
 I am particularly interested in combining my engineering background with **Data Science, Machine Learning, Natural Language Processing, and Artificial Intelligence** to develop practical solutions for complex real-world problems.
 
 <p align="center">
-  <img src="profile-banner.png" alt="Mohammed Ali Alshamsi - Professional Profile" width="100%">
+  <img src="profile_banner.png" alt="Mohammed Ali Alshamsi - Professional Profile" width="100%">
 </p>
 ---
 
