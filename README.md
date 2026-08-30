@@ -8,6 +8,9 @@ My professional experience includes working with **ADNOC Onshore** and **Dubai F
 
 I am particularly interested in combining my engineering background with **Data Science, Machine Learning, Natural Language Processing, and Artificial Intelligence** to develop practical solutions for complex real-world problems.
 
+<p align="center">
+  <img src="profile-banner.png" alt="Mohammed Ali Alshamsi - Professional Profile" width="100%">
+</p>
 ---
 
 ## 🎓 Education
@@ -128,5 +131,7 @@ Machine Learning • Artificial Intelligence • NLP • Data Science • Engine
 ---
 
 ## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alshamsi-blue?logo=linkedin)](https://www.linkedin.com/in/mohammed-alshamsi-056b93185/)
 
 **GitHub:** @malshamsi41
